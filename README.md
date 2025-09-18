@@ -10,7 +10,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Skills & Technologies
 
 <p align="center">
   <!-- Languages -->
