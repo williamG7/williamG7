@@ -32,35 +32,35 @@ Here are some ideas to get you started:
 ## 📧 Connect with me
 
 Feel free to reach me via:
-- ✉ Email: [contact@GuzmanWilliam.com](mailto:contact@willesgume.com)
+- ✉ Email: [contact@GuzmanWilliam.com](mailto:willesgume@gmail.com)
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guzmanwilliam)
-[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@willesgume.com)
+[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willesgume@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/williamG7)
 
 
 <!-- GITHUB STATS -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb"
+    srcset="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=picuu&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222"
+    srcset="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
 </picture>
 
 <!-- TOP LANGS -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelinhoSardinha&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelinhoSardinha&layout=compact&bg_color=00000000&border_color=22222288&text_color=222"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=00000000&border_color=22222288&text_color=222"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelinhoSardinha&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" />
 </picture>
