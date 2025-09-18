@@ -43,7 +43,7 @@
 | [🌐 **Personal Portfolio**](https://github.com/yourrepo) | Responsive portfolio website to showcase my work | HTML, CSS, JS |
 | [📊 **Data Insights**](https://github.com/yourrepo) | Python scripts for data analysis & visualization | Python, Pandas |
 
-> *Replace links and names with your real projects when ready.*
+
 
 ---
 
