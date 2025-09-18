@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Obsidian.md Badge](https://img.shields.io/badge/Obsidian-262626?style=for-the-badge&logo=obsidian&logoColor=6C31E3)
 
 <!-- GITHUB STATS -->
 <picture>
