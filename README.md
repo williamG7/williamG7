@@ -29,6 +29,16 @@ Here are some ideas to get you started:
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## 📧 Connect with me
+
+Feel free to reach me via:
+- ✉ Email: [contact@GuzmanWilliam.com](mailto:contact@willesgume.com)
+
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guzmanwilliam)
+[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@willesgume.com)
+[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/williamG7)
+
+
 <!-- GITHUB STATS -->
 <picture>
   <source
