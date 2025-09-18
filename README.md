@@ -38,7 +38,7 @@
 | Project | Description | Tech |
 |---------|------------|------|
 | [🧮 **Node Multiplication Tables**](https://github.com/williamG7/node-tablas-de-multiplicar) | CLI app that generates customizable multiplication tables and saves them to files | Node.js |
-| [🎬 **ItbFlixW**](https://github.com/williamG7/ItbFlixW) | Front-end prototype of a movie-streaming page with interactive UI and responsive design | HTML, CSS, JavaScript |
+| [🎬 **ItbFlixW**](https://github.com/williamG7/ItbFlixW) | Front-end prototype of a movie-streaming page with interactive UI and responsive design | HTML, CSS |
 | [🗺 **Maps Application**](https://github.com/williamG7/mapsApplication) | Android app that integrates Google Maps API to add, edit and delete custom markers | Kotlin, Google Maps API |
 
 
