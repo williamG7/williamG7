@@ -1,11 +1,11 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi there 👋, I'm William</h1>
-<h3 align="center">
+<h1 align="right">Hi there 👋, I'm William</h1>
+<h3 align="right">
 18-year-old Multiplatform Application Development student & aspiring full-stack developer
 </h3>
 
-<p align="center">
-  🌱 Currently learning <strong>Kotlin</strong> & <strong>Java</strong>  
+<p align="right">
+  🌱 Currently learning <strong>Kotlin</strong> & <strong></strong>  
   <br/>
   💡 Passionate about building cross-platform apps and modern web solutions  
 </p>
@@ -49,7 +49,8 @@
 
 ## 📈 GitHub Stats
 
-<picture> <source srcset="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" /> </picture>
+<picture> <source srcset="https://github-readme-stats.vercel.app/api?username=Marc-Diaz&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Marc-Diaz&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" /> </picture>
+
 <picture> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=00000000&border_color=22222288&text_color=222" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" /> </picture>
 
 <p align="center">
