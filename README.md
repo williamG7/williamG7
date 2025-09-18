@@ -37,9 +37,10 @@
 
 | Project | Description | Tech |
 |---------|------------|------|
-| [📱 **Cross-Platform Notes App**](https://github.com/yourrepo) | Kotlin app that syncs notes across Android & desktop | Kotlin, SQLite |
-| [🌐 **Personal Portfolio**](https://github.com/yourrepo) | Responsive portfolio website to showcase my work | HTML, CSS, JS |
-| [📊 **Data Insights**](https://github.com/yourrepo) | Python scripts for data analysis & visualization | Python, Pandas |
+| [🧮 **Node Multiplication Tables**](https://github.com/williamG7/node-tablas-de-multiplicar) | CLI app that generates customizable multiplication tables and saves them to files | Node.js |
+| [🎬 **ItbFlixW**](https://github.com/williamG7/ItbFlixW) | Front-end prototype of a movie-streaming page with interactive UI and responsive design | HTML, CSS, JavaScript |
+| [🗺 **Maps Application**](https://github.com/williamG7/mapsApplication) | Android app that integrates Google Maps API to add, edit and delete custom markers | Kotlin, Google Maps API |
+
 
 
 
