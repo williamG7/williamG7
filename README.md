@@ -38,6 +38,7 @@ Feel free to reach me via:
 [![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willesgume@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/williamG7)
 
+---
 
 <!-- GITHUB STATS -->
 <picture>
