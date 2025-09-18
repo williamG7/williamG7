@@ -1,4 +1,4 @@
-## Hi, i'm William 
+## 👋🏼 Hi, I'M William 
 
 <!--
 **williamG7/williamG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,3 +65,7 @@ Feel free to reach me via:
   />
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" />
 </picture>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
