@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <h1 align="left">Hi 👋, I'm William</h1>
 <h3 align="left">
-18-year-old Multiplatform Application Development student & aspiring full-stack developer
+19-year-old Multiplatform Application Development student & aspiring full-stack developer
 </h3>
 
 <p align="left">
