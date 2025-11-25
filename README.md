@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/micro:bit-FF6F00?style=for-the-badge&logo=microbit&logoColor=white" alt="micro:bit"/>
+  <img src="https://img.shields.io/badge/MakeCode_Arcade-00A4EF?style=for-the-badge&logo=makecode&logoColor=white" alt="MakeCode Arcade"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Astro-0EA5A4?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
 </p>
 
 ---
@@ -41,15 +45,14 @@
 | [🎬 **ItbFlixW**](https://github.com/williamG7/ItbFlixW) | Front-end prototype of a movie-streaming page with interactive UI and responsive design | HTML, CSS |
 | [🗺 **Maps Application**](https://github.com/williamG7/mapsApplication) | Android app that integrates Google Maps API to add, edit and delete custom markers | Kotlin, Google Maps API |
 
-
-
-
 ---
 
 ## 📈 GitHub Stats
 
-<picture> <source srcset="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" /> </picture>
-<picture> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=00000000&border_color=22222288&text_color=222" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" /> </picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&theme=dark" alt="Top languages" />
+</p>
 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -64,4 +67,3 @@
   <a href="https://www.linkedin.com/in/guzmanwilliam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/williamG7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
