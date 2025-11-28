@@ -50,17 +50,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&theme=light" />
-    <img src="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&theme=light" alt="GitHub stats" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&theme=light" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&theme=light" alt="Top languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=ffffff&border_color=dddddd&text_color=000000" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=ffffff&border_color=dddddd&text_color=000000" alt="Top languages" />
 </p>
 
 <p align="center">
