@@ -50,8 +50,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&theme=dark" alt="Top languages" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=williamG7&show_icons=true&theme=light" alt="GitHub stats" />
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamG7&layout=compact&theme=light" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
